@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Tech Workshop",
+    "category": "Tech",
+    "location": "London",
+    "latitude": 51.5074,
+    "longitude": -0.1278,
+    "date": "2026-01-20",
+    "time": "18:00"
+  },
+  {
+    "id": 2,
+    "name": "Music Concert",
+    "category": "Music",
+    "location": "London",
+    "latitude": 51.5095,
+    "longitude": -0.1180,
+    "date": "2026-01-22",
+    "time": "20:00"
+  },
+  {
+    "id": 3,
+    "name": "Fitness Bootcamp",
+    "category": "Fitness",
+    "location": "London",
+    "latitude": 51.5100,
+    "longitude": -0.1200,
+    "date": "2026-01-21",
+    "time": "07:00"
+  },
+  {
+    "id": 4,
+    "name": "Art & Design Meetup",
+    "category": "Art",
+    "location": "London",
+    "latitude": 51.5060,
+    "longitude": -0.1280,
+    "date": "2026-01-23",
+    "time": "19:00"
+  }
+]
